@@ -6,7 +6,7 @@
 
 I'm Mohar Chaudhuri, a data scientist specializing in machine learning and quantitative finance. With 3+ years of consulting experience at the World Bank and INSEAD, I build production-ready models that translate complex data into strategic business decisions.
   
-[![Linkedin Badge](https://img.shields.io/badge/-MoharChaudhuri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://moharchaudhuri.com/)](https://moharchaudhuri.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-CheckOutMyWebsite!-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://moharchaudhuri.com/)](https://moharchaudhuri.com/)
 
 </div>
 
@@ -18,10 +18,6 @@ Currently completing my MS in Business Analytics at UT Austin McCombs (Financial
 When I'm not training models, I'm experimenting in the kitchen with the same precision I bring to my code.
 Open to data science opportunities across finance, tech, and analytics. Let's connect!
 
-
-## 🔍 Where to find me 
-- [My website](https://moharchaudhuri.com/)
-- [Email](mailto:moharchaudhuri.ofc@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/mohar-chaudhuri/)
 
 <p align=center>
