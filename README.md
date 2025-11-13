@@ -1,12 +1,23 @@
-<h2 align="center">Hello World! 👋</h2>
 
----
-I'm Mohar Chaudhuri!
 
-Impact Evaluation Consultant at the World Bank, combining rigorous statistical analysis with development economics to drive evidence-based policy decisions. Graduate of Toulouse School of Economics (M.S. Statistics and Econometrics) and Jadavpur University (B.A. Economics), specializing in econometrics and causal inference.
-I leverage advanced quantitative methods to evaluate development programs and translate complex data into actionable insights. My work spans multivariate regression analysis, time-series modeling, and experimental design, helping stakeholders understand what works in development interventions and why.
-When I'm not analyzing data, you'll find me experimenting in the kitchen, applying the same precision and creativity to culinary adventures as I do to statistical analysis.
-Open to connecting with fellow development practitioners, economists, and data enthusiasts.
+
+<div align="center">
+<h1>Hello World! 👋</h1>
+
+I'm Mohar Chaudhuri, a data scientist specializing in machine learning and quantitative finance. With 3+ years of consulting experience at the World Bank and INSEAD, I build production-ready models that translate complex data into strategic business decisions.
+  
+[![Linkedin Badge](https://img.shields.io/badge/-MoharChaudhuri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://moharchaudhuri.com/)](https://moharchaudhuri.com/)
+
+</div>
+
+
+
+
+Currently completing my MS in Business Analytics at UT Austin McCombs (Financial Analytics track), where I combine rigorous statistical methods with hands-on implementation—from NLP-powered recommendation systems to portfolio optimization with advanced risk modeling.
+
+When I'm not training models, I'm experimenting in the kitchen with the same precision I bring to my code.
+Open to data science opportunities across finance, tech, and analytics. Let's connect!
+
 
 ## 🔍 Where to find me 
 - [My website](https://moharchaudhuri.com/)
@@ -21,11 +32,27 @@ Open to connecting with fellow development practitioners, economists, and data e
 
 
 
-<p align=center><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=moharchaudhuri17&theme=transparent" /></p>
-
-<p align=center> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moharchaudhuri17&size_weight=0.5&count_weight=0.5&layout=compact&hide=javascript,css,scss,html,lua&theme=transparent&langs_count=8" /></p>
 
 
+</div>
+
+## 🎓 Education
+
+- **MS in Business Analytics @ UT Austin**
+  - 🎓 Courses: Advanced Machine Learning, Advanced Corporate Finance, Analytics for Unstructured data, Advanced Optimization, Time Series, and more!
+
+- **MS in Statistics @ Toulouse School of Economics**
+  - 🎓 Courses: Non Parametric Modelling, Advanced Statistical Theory, Geomarketing, and more!
+
+- **BA in Economics @ Jadavpur University**
+  - 🎓 Courses: Econometrics, Mathematics, Statistics, Microeconomics, Macroeconomics, and more!
 
 
+📫 How to reach me:
+- 📧 Email: moharchaudhuri.ofc@email.com
+- 📧 University Email: mohar.chaudhuri@utexas.edu
+</div>
+
+
+Whether you're a seasoned data scientist, a fellow learner on this journey, or someone curious about what data can reveal, I'd be delighted to connect. 
 
